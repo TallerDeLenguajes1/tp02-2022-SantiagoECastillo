@@ -1,1 +1,2 @@
 Esto se debe a que el archivo tp2_1_2.c esta en otra rama, diferente a la que estamos posicionados, por ello no se ve
+\n luego del merge, se unen ambas ramas a la rama principal y se agregan los archivos de ambas ramas
