@@ -1,0 +1,1 @@
+Esto se debe a que el archivo tp2_1_2.c esta en otra rama, diferente a la que estamos posicionados, por ello no se ve
